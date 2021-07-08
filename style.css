@@ -21,7 +21,7 @@ a:hover{
     color:#61698a;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     word-spacing:0.4em;
-    letter-spacing:0.08em; 
+    letter-spacing:0.05em; 
     box-sizing:border-box;
 }
 #sub-header{
@@ -33,7 +33,7 @@ a:hover{
 #sub-header a{
     color: #7887a2;
     word-spacing:0.1em;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.05em;
 }
 #sub-header a:hover{
     color:rgb(162, 185, 255);
