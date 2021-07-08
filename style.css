@@ -32,8 +32,7 @@ a:hover{
 }
 #sub-header a{
     color: #7887a2;
-    word-spacing:0.1em;
-    letter-spacing: 0.05em;
+
 }
 #sub-header a:hover{
     color:rgb(162, 185, 255);
