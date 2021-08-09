@@ -30,7 +30,7 @@ a:hover{
     margin-top: 0px;
     margin-bottom:30px;
     letter-spacing: 0.01em;
-    word-spacing: 0.08em;
+    word-spacing: 1em;
 }
 #sub-header a{
     color: #979fbd;
