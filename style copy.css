@@ -8,7 +8,7 @@ body{
 }
 a{
     text-decoration: none;
-    color:#4c634c ;
+    color:#6c806c ;
 }
 a:hover{
     color: #73d09d;
@@ -40,17 +40,10 @@ a:hover{
     color:#8ab1ff;
 }
 
-#main-footer{
-    text-align:center;
-    padding:20px;
-    margin-top:30px;
-    color:#4c634c;
-    font-weight:500;
-}
+
 
 table{
     background-color: #ffff;
-    border-color: #eaf1f1;
     font-size:18px;
     border-color:#e3ebe3 ;
 }
@@ -62,11 +55,11 @@ table{
 }
 
 .tsh{
-    background-color:#FFFF ;
+    background-color:#e3ebe3 ;
     color:#6c806c;
 }
 .tsh:hover{
-    background-color:#FFFF;
+    background-color:#c7dac7;
     color:#6c806c;
 }   
 table td{
@@ -75,4 +68,11 @@ table td{
 }
 table td:hover{
     background-color:rgb(237, 245, 245);
+}
+#main-footer{
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+    color:#4c634c;
+    font-weight:500;
 }
