@@ -68,6 +68,12 @@ table{
     background-color:#e3ebe3;
     color:#6c806c;
 }   
+.tf{
+    background-color:#ffeeee;
+}
+.tf:hover{
+    background-color:#ffeeee ;
+}
 table td{
     font-weight:500;
     line-height:2em;
