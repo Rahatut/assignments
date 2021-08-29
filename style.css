@@ -69,10 +69,10 @@ table{
     color:#6c806c;
 }   
 .tf{
-    background-color:#ffeeee;
+    background-color:rgb(237, 245, 245);
 }
 .tf:hover{
-    background-color:#ffeeee ;
+    background-color:rgb(237, 245, 245) ;
 }
 table td{
     font-weight:500;
